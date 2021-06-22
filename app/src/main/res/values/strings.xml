@@ -4,5 +4,15 @@
     <string name="description">My Expiry List is an app that will track the warranty dates of products</string>
     <string name="button_website">Open Website</string>
     <string name="button_app">Open App</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="find">Find</string>
+    <string name="name">Enter name of item</string>
+    <string name="date">Enter expiry date of item</string>
+    <string name="index">Enter index of item</string>
+
+
+
 
 </resources>
