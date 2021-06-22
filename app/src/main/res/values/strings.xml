@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpiryList</string>
+    <string name="title">My Expiry List</string>
+    <string name="description">My Expiry List is an app that will track the warranty dates of products</string>
+    <string name="button_website">Open Website</string>
+    <string name="button_app">Open App</string>
+
+</resources>
